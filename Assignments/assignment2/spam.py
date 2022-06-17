@@ -1,0 +1,2 @@
+def bacon():
+    print("Bacon")
