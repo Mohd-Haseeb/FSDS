@@ -23,11 +23,11 @@
 
 
 
-## databse.py
+## database.py
 
     - It contains code which deals with Table creation
 
-## taska.ipynb
+## tasks.ipynb
 
     - All the data analysis required to complete the task is implemented here
 
