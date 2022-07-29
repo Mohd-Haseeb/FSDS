@@ -32,5 +32,10 @@
     - All the data analysis required to complete the task is implemented here
 
 
+## **NOTE**:
+    - Data files for attribute and sales were stored in another directory named FSDS_DATA_SET.
+
+    - Path for this directory is "../../FSDS_DATA_SET" 
+
 
 
