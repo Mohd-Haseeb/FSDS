@@ -39,3 +39,6 @@
 
 
 
+## MYSQL Details:
+
+    - `dummytest` database is created to store attribute data and sales data.
